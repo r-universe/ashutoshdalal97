@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "AsymmetricSORDs"]
+	path = AsymmetricSORDs
+	url = https://github.com/cran/AsymmetricSORDs
+[submodule "CompExpDes"]
+	path = CompExpDes
+	url = https://github.com/cran/CompExpDes
+[submodule "GETdesigns"]
+	path = GETdesigns
+	url = https://github.com/cran/GETdesigns
+[submodule "GRCdesigns"]
+	path = GRCdesigns
+	url = https://github.com/cran/GRCdesigns
+[submodule "HadIBDs"]
+	path = HadIBDs
+	url = https://github.com/cran/HadIBDs
+[submodule "MixedLevelRSDs"]
+	path = MixedLevelRSDs
+	url = https://github.com/cran/MixedLevelRSDs
+[submodule "NBBDesigns"]
+	path = NBBDesigns
+	url = https://github.com/cran/NBBDesigns
+[submodule "PBtDesigns"]
+	path = PBtDesigns
+	url = https://github.com/cran/PBtDesigns
+[submodule "PolycrossDesigns"]
+	path = PolycrossDesigns
+	url = https://github.com/cran/PolycrossDesigns
+[submodule "TORDs"]
+	path = TORDs
+	url = https://github.com/cran/TORDs
+[submodule "Tri.Hierarchical.IBDs"]
+	path = Tri.Hierarchical.IBDs
+	url = https://github.com/cran/Tri.Hierarchical.IBDs
+[submodule "rsdNE"]
+	path = rsdNE
+	url = https://github.com/cran/rsdNE
