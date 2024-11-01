@@ -29,6 +29,9 @@
 [submodule "PolycrossDesigns"]
 	path = PolycrossDesigns
 	url = https://github.com/cran/PolycrossDesigns
+[submodule "SudokuDesigns"]
+	path = SudokuDesigns
+	url = https://github.com/cran/SudokuDesigns
 [submodule "TORDs"]
 	path = TORDs
 	url = https://github.com/cran/TORDs
