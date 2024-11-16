@@ -23,6 +23,9 @@
 [submodule "NBBDesigns"]
 	path = NBBDesigns
 	url = https://github.com/cran/NBBDesigns
+[submodule "OPTeCD"]
+	path = OPTeCD
+	url = https://github.com/cran/OPTeCD
 [submodule "PBtDesigns"]
 	path = PBtDesigns
 	url = https://github.com/cran/PBtDesigns
