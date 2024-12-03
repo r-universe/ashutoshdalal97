@@ -17,6 +17,9 @@
 [submodule "HadIBDs"]
 	path = HadIBDs
 	url = https://github.com/cran/HadIBDs
+[submodule "MEDesigns"]
+	path = MEDesigns
+	url = https://github.com/cran/MEDesigns
 [submodule "MixedLevelRSDs"]
 	path = MixedLevelRSDs
 	url = https://github.com/cran/MixedLevelRSDs
