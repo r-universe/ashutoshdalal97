@@ -41,6 +41,9 @@
 [submodule "TORDs"]
 	path = TORDs
 	url = https://github.com/cran/TORDs
+[submodule "TREDesigns"]
+	path = TREDesigns
+	url = https://github.com/cran/TREDesigns
 [submodule "Tri.Hierarchical.IBDs"]
 	path = Tri.Hierarchical.IBDs
 	url = https://github.com/cran/Tri.Hierarchical.IBDs
