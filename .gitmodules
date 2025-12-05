@@ -35,6 +35,9 @@
 [submodule "PolycrossDesigns"]
 	path = PolycrossDesigns
 	url = https://github.com/cran/PolycrossDesigns
+[submodule "SFOCDs"]
+	path = SFOCDs
+	url = https://github.com/cran/SFOCDs
 [submodule "SudokuDesigns"]
 	path = SudokuDesigns
 	url = https://github.com/cran/SudokuDesigns
